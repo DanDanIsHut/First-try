@@ -1,0 +1,5 @@
+# 忽略css下的02.css文件
+./css/02.css
+
+# 忽略01.html文件
+01.html
